@@ -1,4 +1,4 @@
-I am a macroeconomist that is interested on the interaction between monetary and fiscal policies on the one hand and financial fragility on the other.
+I am a macroeconomist that is interested in the interaction between monetary and fiscal policies on the one hand and financial fragility on the other.
 
 <!--
 **christiaanvdkwaak/christiaanvdkwaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
